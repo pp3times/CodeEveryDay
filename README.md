@@ -17,4 +17,9 @@ int main() {
 }
 ```
 
+Day 3
+```js
+console.log("3");
+```
+
 maybe add some file later 😴

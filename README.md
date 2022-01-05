@@ -22,4 +22,14 @@ Day 3
 console.log("3");
 ```
 
+Day 4
+```java
+public class four {
+    public static void main(String args[]) {
+      System.out.println("4");
+    }
+}
+```
+
+
 maybe add some file later 😴
